@@ -9,6 +9,7 @@ Boas práticas.
 Validação.
 Animação com CSS.
 Importação de json com lógica ajax.
+*******
 
 ******* FUNCIONALIDADES:
 O usuário pode adicionar pacientes na tabela (que já vem com alguns exemplos). 
@@ -16,3 +17,4 @@ Os dados passam por validação (tente adicionar um paciente com altura maior qu
 O IMC é calculado automaticamente.
 Para remover um paciente da lista, dê um clique-duplo em sua linha (qualquer um dos campos).
 O botão "Pacientes Externos" importa um json com novos pacientes (de um link fixo, apenas para exemplo).
+*******
