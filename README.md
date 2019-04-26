@@ -1,6 +1,6 @@
 # registra-pacientes-alura
 
-//#include <javascript>
+#include javascript | 
 int recursos[DOM, Eventos e formulários, Boas práticas, Validação, Animação CSS, json, ajax];
 
 ---------------
